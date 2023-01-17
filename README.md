@@ -2,57 +2,22 @@
     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Hello My name is Felipe!
 </h1>
 
----
-<div align="center">
-<p>
-<img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png">
-Hello! my name is Felipe and I'm a Jr. Front-End developer!
-<br>
-✏️ I'm currently studyng System Analysis and Development
-<br>
-🛠️ Searching for my first job in the technology Area
-</p>
-</div>
+# 💫 About Me:
+📒Cursando Análise e Desenvolvimento de Sistemas<br>👩‍💻Dev Front-End Jr<br><br>📝Conhecimento breve em:<br><br>▶ Desenvolvimento .Net usando C#<br>▶ Tratamento de dados utilizando Python e PySpark<br>▶ Lógica de programação utilizando a linguagem Dart<br>
 
-<div>
-<h4>Main Abilities:</h4>
-<img height="45" alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
-<img height="45" alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
-<img height="45" alt="Javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-</div>
 
-<div>
-<h4>Currently Learning:</h4>
-<img height="45" alt="ReactJs" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png">
-<img height="45" alt="PHP" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
-<img height="45" alt="SQL" src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png">
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wwfehh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Luiz Felipe Selau) 
 
-<div>
-<h4>Interested Into: </h4>
-<img height="45" alt="Flutter Framework" src="assets/flutter.png">
-<img height="45" alt="NodeJs" src="assets/node.png">
-<img height="45" alt="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=felipeselau&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=felipeselau&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeselau&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="center"><i>My dream is to change the world through technology and acessibility</i></p>
-
----
-
-
-
-<!--
-**felipeselau/felipeselau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://visitcount.itsvg.in/api?id=felipeselau&icon=0&color=0)](https://visitcount.itsvg.in)
