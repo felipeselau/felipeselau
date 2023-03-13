@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-📒Cursando Análise e Desenvolvimento de Sistemas<br>👩‍💻Dev Front-End Jr<br><br>📝Conhecimento breve em:<br><br>▶ Desenvolvimento .Net usando C#<br>▶ Tratamento de dados utilizando Python e PySpark<br>▶ Lógica de programação utilizando a linguagem Dart<br>
+📒Cursando Análise e Desenvolvimento de Sistemas 2/6<br>👩‍💻Dev Front-End<br><br>📝Conhecimento breve em:<br><br>▶ Desenvolvimento .Net usando C#<br>▶ Tratamento de dados utilizando Python e PySpark<br>▶ Lógica de programação utilizando a linguagem Dart<br>
 
 
 ## 🌐 Socials:
