@@ -3,7 +3,7 @@
 🛒 I work with Shopify-based eCommerce platforms serving over 1M visitors monthly.  
 💡 I'm passionate about understanding the product beyond the code — from user experience to business goals.  
 🧠 I approach problems from multiple angles to find efficient and sustainable solutions.  
-🔧 In my spare time, I build CLI tools and mobile apps that help streamline my everyday tasks.
+🔧 In my spare time, I build CLI tools and mobile apps that help streamline my everyday tasks.<br>
 🚀 I also enjoy setting up CI/CD pipelines, working with Docker and GitHub Actions, and self-hosting apps on my personal server.
 
 # 🛠️ Tech Stack
